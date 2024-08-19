@@ -15,7 +15,7 @@ This project involves predicting stock prices using an LSTM (Long Short-Term Mem
 ## Files
 
 - `main.py`: Main script containing the code for data preprocessing, model training, prediction, and backtesting.
-- `notebook.py`: Jupyter notebook for executed codes
+- `notebook.ipynb`: Jupyter notebook for executed code
 ## Dependencies
 
 The following Python libraries are required:
